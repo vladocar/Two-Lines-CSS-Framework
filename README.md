@@ -13,12 +13,12 @@ You only need two lines of CSS:
 
 Demos:
 
-[Demo1](demo.htm)
+[Demo1](demo.html)
 
-[Demo2](demo1.htm)
+[Demo2](demo1.html)
 
-[Demo3](demo2.htm)
+[Demo3](demo2.html)
 
-[Demo4](demo3.htm)
+[Demo4](demo3.html)
 
 Find more on: [my blog](http://www.vcarrer.com/2010/10/two-lines-css-framework.html)
