@@ -13,4 +13,4 @@ Demos:
 
 [Demo4](demo3.htm)
 
-Find more on: http://www.vcarrer.com/2010/10/two-lines-css-framework.html
+Find more on: [my blog](http://www.vcarrer.com/2010/10/two-lines-css-framework.html)
