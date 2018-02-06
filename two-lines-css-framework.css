@@ -1,0 +1,14 @@
+/* Two Lines CSS Framework */
+
+ .row {  
+	display:table;   /*  The container */
+	width:960px;     /* Any width, you can also use % and ems */
+	margin:0 auto    /* Centered  */
+}
+
+.cell  { 
+	display:table-cell;   /* column */
+	vertical-align:top;   /* align to top */
+	padding-left:10px     /* the  default gutter, you can  personalize your gutter size */
+}
+
